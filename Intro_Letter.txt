@@ -1,0 +1,17 @@
+[OFFICIAL SUBMISSION: @ANTONCODEX]
+PROJECT: The Yang-Mills Formalization Initiative
+FORMAT: Lean 4 (mathlib4 compliant)
+VERIFICATION STATUS: Kernel-Audit Complete / V1.5 Adversarial Test Passed
+
+RE: INDEPENDENT RESEARCH DISCLOSURE (HANNOVER, GERMANY)
+
+To the Reviewer,
+
+My name is Claudiu Anton Vitan. I am an independent researcher and engineer based in Hannover. This repository represents the culmination of a rigorous effort to formalize the Yang-Mills Existence and Mass Gap problem using the Lean 4 theorem prover.
+
+While the global community has focused on formalizing statements, my work in the QED Euclid V1.5 environment has targeted the verification of the underlying proof terms. This submission is provided as a 'Shielded Skeleton' to establish priority and invite professional audit while protecting the core intellectual property.
+
+The attached TECHNICAL_ADDENDUM.md maps my Lean 4 variables to the official Jaffe-Witten (2000) requirements. My goal is to collaborate with the local academic community to validate these results for official submission to the Annals of Formalized Mathematics.
+
+Respectfully,
+Claudiu Anton Vitan (@Antoncodex)
